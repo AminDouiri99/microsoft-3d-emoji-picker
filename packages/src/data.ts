@@ -3,7 +3,7 @@ import { CategoryNameType } from "./type";
 export const emojiCategories = [
   {
     name: "smilieys",
-    label: "スマイリー",
+    label: "smilieys",
   },
   {
     name: "people",
