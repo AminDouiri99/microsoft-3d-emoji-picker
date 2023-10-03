@@ -7,31 +7,31 @@ export const emojiCategories = [
   },
   {
     name: "people",
-    label: "人々",
+    label: "people",
   },
   {
     name: "animals-and-nature",
-    label: "動物と自然",
+    label: "animals and nature",
   },
   {
     name: "food",
-    label: "食べ物",
+    label: "food",
   },
   {
     name: "activity",
-    label: "活動",
+    label: "activity",
   },
   {
     name: "travel-and-place",
-    label: "旅行と場所",
+    label: "travel and place",
   },
   {
     name: "objects",
-    label: "物",
+    label: "objects",
   },
   {
     name: "symbols",
-    label: "シンボル",
+    label: "symbols",
   },
 ];
 
